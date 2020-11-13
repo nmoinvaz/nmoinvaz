@@ -1,4 +1,4 @@
-👋 I am a software developer with almost 20 years experience in desktop, web, and front-end application development.
+👋 I am a software developer with experience in desktop, web, and front-end application development.
 
 - C, C#, Python, Javascript, React
 - Windows, macOS, Linux
