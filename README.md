@@ -9,7 +9,7 @@
     - Developed cross-platform code-signing, executable branding, and dmg creation tools for macOS, Windows, and Linux.
     - Developed installers and downloaders for many well known brands including Adobe, Oracle, Philips, Wolfram and launchers for several popular games including Duelyst, Dreadnought and Winning Putt.
     
-  - ✂️ [Minizip](https://github.com/nmoinvaz/minizip), a cross-platform zip manipulation library. Based on the old minizip contribution found in zlib distribution. Developed and largely refactored to support advanced zip features such as WinZIP AES encryption, PKWARE disk splitting, large file support, buffered I/O, NTFS timestamps, LZMA, and ZSTD. Continous integration includes checks for code coverage, sanitizers, and fuzzers. Currently it has been packaged for several Linux distributions and is a third-party library used in Chromium source tree.
+  - ✂️ [Minizip-ng](https://github.com/zlib-ng/minizip-ng), a cross-platform zip manipulation library. Based on the old minizip contribution found in zlib distribution. Developed and largely refactored to support advanced zip features such as WinZIP AES encryption, PKWARE disk splitting, large file support, buffered I/O, NTFS timestamps, LZMA, and ZSTD. Continous integration includes checks for code coverage, sanitizers, and fuzzers. Currently it has been packaged for several Linux distributions and is a third-party library used in Chromium source tree.
   
  
   - 💉 [Zlib-ng](https://github.com/zlib-ng/zlib-ng), a zlib data compression library replacement for next-generation systems. Providing significant contributions for over a year in an effort to produce an initial release.
