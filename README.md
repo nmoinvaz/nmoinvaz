@@ -1,7 +1,4 @@
-👋 I am a software developer with experience in desktop, web, and front-end application development.
-
-- C, C#, Python, Javascript, React
-- Windows, macOS, Linux
+👋 I am a software developer with experience in cross-platform desktop, web, and front-end application development.
 
 🔭 I’m currently working on ...
   - 📌 Software delivery and deployment platform for [Solid State Networks](https://www.solidstatenetworks.com/) called DIRECT. It provides a fully integrated download manager, patcher, repair tools, and self-updating launcher that is used by game studios.
@@ -20,21 +17,6 @@ A long time ago I developed two popular freeware applications ...
 - 🔌 [ExtractNow](https://www.extractnow.com/), a utility that allowed you to extract multiple archives quickly and easily. When it was first developed there were few if any software applications available that were designed to handle batch archive operations. ExtractNow started as a personal project and it ended up being downloaded over 2 million times, receiving multiple awards, and was featured in several computer software magazines. It was my first experience developing and supporting a software product available for the public and provided unique challenges with regard to both application and user interface design.
 
 - 📷 [WebShot](https://www.websitescreenshots.com/), a utility that allowed users to capture an image of any webpage given its address. It was a first of its kind application that allowed for batch screenshot generation through a command line interface in the days before Chrome existed. WebShot had many features that allowed for the customization and control of the image capture process. It also provided a software development kit that allowed third-party developers to integrate with directly.
-
-  
- <!--
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 
 🔦 [StackOverflow](https://stackoverflow.com/users/610692/nathan-moinvaziri) profile
 
