@@ -18,7 +18,7 @@
     - Providing significant contributions for over 2 years. 
   
   - 📍 [C-Blosc2](https://github.com/Blosc/c-blosc2), a simple, compressed, fast and presistent data store library.
-  - 
+
     - Developing continuous integration improvements and providing security fixes.
   
 A long time ago I developed two popular freeware applications ...
