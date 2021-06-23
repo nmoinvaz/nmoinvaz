@@ -3,8 +3,8 @@
 🔭 I’m currently working on ...
   - 📌 Software delivery and deployment platform for [Solid State Networks](https://www.solidstatenetworks.com/) called DIRECT. It provides a fully integrated download manager, patcher, repair tools, and self-updating launcher that is used by game studios.
   
-    - Developed cross-platform code-signing, executable branding, and dmg creation tools for macOS, Windows, and Linux.
-    - Developed installers and downloaders for many well known brands including Adobe, Oracle, Philips, Wolfram and launchers for several popular games including Duelyst, Dreadnought and Winning Putt.
+    - Develop cross-platform code-signing, executable branding, and dmg creation tools for macOS, Windows, and Linux.
+    - Develop installers and downloaders for many well known brands including Adobe, Oracle, Philips, Wolfram and launchers for several popular games including Duelyst, Dreadnought and Winning Putt.
     - Develop and maintain an in-house client application hosting Internet Explorer (trident), Edge (chromium), Chromium Embedded Framework (cef), Apple WebKit (awk), and  WebKitGTK.
     
   - ✂️ [Minizip-ng](https://github.com/zlib-ng/minizip-ng), a cross-platform zip manipulation library. Based on the old minizip contribution found in zlib distribution. Developed and largely refactored to support advanced zip features such as WinZIP AES encryption, PKWARE disk splitting, large file support, buffered I/O, NTFS timestamps, LZMA, and ZSTD. Continous integration includes checks for code coverage, sanitizers, and fuzzers. Currently it has been packaged for several Linux distributions and is a third-party library used in the Chromium source tree.
