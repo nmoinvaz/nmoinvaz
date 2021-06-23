@@ -7,11 +7,19 @@
     - Develop installers and downloaders for many well known brands including Adobe, Oracle, Philips, Wolfram and launchers for several popular games including Duelyst, Dreadnought and Winning Putt.
     - Develop and maintain an in-house client application hosting Internet Explorer (trident), Edge (chromium), Chromium Embedded Framework (cef), Apple WebKit (awk), and  WebKitGTK.
     
-  - ✂️ [Minizip-ng](https://github.com/zlib-ng/minizip-ng), a cross-platform zip manipulation library. Based on the old minizip contribution found in zlib distribution. Developed and largely refactored to support advanced zip features such as WinZIP AES encryption, PKWARE disk splitting, large file support, buffered I/O, NTFS timestamps, LZMA, and ZSTD. Continous integration includes checks for code coverage, sanitizers, and fuzzers. Currently it has been packaged for several Linux distributions and is a third-party library used in the Chromium source tree.
+  - ✂️ [Minizip-ng](https://github.com/zlib-ng/minizip-ng), a cross-platform zip manipulation library fork based on the old minizip contribution found in zlib distribution.
 
-  - 💉 [Zlib-ng](https://github.com/zlib-ng/zlib-ng), a zlib data compression library replacement for next-generation systems. Providing significant contributions for over 2 years.
+     - Develop and support advanced zip features such as WinZIP AES encryption, PKWARE disk splitting, large file support, buffered I/O, NTFS timestamps, LZMA, and ZSTD. 
+     - Continous integration includes checks for code coverage, sanitizers, and fuzzers.
+     - Currently it has been packaged for several Linux distributions and is a third-party library used in the Chromium source tree.
+
+  - 💉 [Zlib-ng](https://github.com/zlib-ng/zlib-ng), a zlib data compression library replacement for next-generation systems. 
+
+    - Providing significant contributions for over 2 years. 
   
-  - 📍 [C-Blosc2](https://github.com/Blosc/c-blosc2), a simple, compressed, fast and presistent data store library. Developing continuous integration improvements and providing security fixes.
+  - 📍 [C-Blosc2](https://github.com/Blosc/c-blosc2), a simple, compressed, fast and presistent data store library.
+  - 
+    - Developing continuous integration improvements and providing security fixes.
   
 A long time ago I developed two popular freeware applications ...
 - 🔌 [ExtractNow](https://www.extractnow.com/), a utility that allowed you to extract multiple archives quickly and easily. When it was first developed there were few if any software applications available that were designed to handle batch archive operations. ExtractNow started as a personal project and it ended up being downloaded over 2 million times, receiving multiple awards, and was featured in several computer software magazines. It was my first experience developing and supporting a software product available for the public and provided unique challenges with regard to both application and user interface design.
