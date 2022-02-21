@@ -17,10 +17,6 @@
 
     - Providing significant contributions for over 2 years. 
   
-  - 📍 [C-Blosc2](https://github.com/Blosc/c-blosc2), a simple, compressed, fast and presistent data store library.
-
-    - Developing continuous integration improvements and providing security fixes.
-  
 A long time ago I developed two popular freeware applications ...
 - 🔌 [ExtractNow](https://www.extractnow.com/), a utility that allowed you to extract multiple archives quickly and easily. When it was first developed there were few if any software applications available that were designed to handle batch archive operations. ExtractNow started as a personal project and it ended up being downloaded over 2 million times, receiving multiple awards, and was featured in several computer software magazines. It was my first experience developing and supporting a software product available for the public and provided unique challenges with regard to both application and user interface design.
 
