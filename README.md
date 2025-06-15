@@ -10,9 +10,7 @@
     
   - ✂️ [minizip-ng](https://github.com/zlib-ng/minizip-ng), a cross-platform zip manipulation library based on the old minizip contribution found in zlib.
 
-  - 💉 [zlib-ng](https://github.com/zlib-ng/zlib-ng), a zlib data compression library replacement for next-generation systems. 
-
-    - Providing significant [contributions](https://github.com/zlib-ng/zlib-ng/pulls?q=is%3Apr+author%3Anmoinvaz+) for over 4 years. 
+  - 💉 [zlib-ng](https://github.com/zlib-ng/zlib-ng), a zlib data compression library replacement for next-generation systems.
   
 A long time ago I developed two popular freeware applications...
 - 🔌 [ExtractNow](https://www.extractnow.com/), a utility that allowed you to extract multiple archives quickly and easily. When it was first developed there were few if any software applications available that were designed to handle batch archive operations.
@@ -22,4 +20,5 @@ A long time ago I developed two popular freeware applications...
 💡 There is no system of either education, politics, or religion, which ought to be excepted from the severest scrutiny of the human mind, or the closest examination which the human faculties can bestow on it. — Palmer, Elihu, Principles of Nature p. 207
 
 [A&B OceanLab - I Am What I Am](https://www.youtube.com/watch?v=KKyYgYq4MtE)
+
 [Poolside - Around the Sun](https://www.youtube.com/watch?v=rmqnS9R-KOw)
