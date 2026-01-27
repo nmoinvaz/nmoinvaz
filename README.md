@@ -1,7 +1,7 @@
 👋 I am a software developer with experience in cross-platform desktop, web, and front-end application development.
 
 🔭 I’m currently working on ...
-  - 📌 Software delivery and deployment platform for [Solid State Networks](https://www.solidstatenetworks.com/) called DIRECT. It provides a fully integrated download manager, patcher, repair tools, and self-updating launcher that is used by game studios.
+  - 📌 Software delivery and deployment platform for [Solsta](https://www.solsta.io/). It provides a fully integrated download manager, patcher, repair tools, and self-updating launcher that is used by game studios.
   
     - Develop code-signing, executable branding, and dmg creation tools for macOS, Windows, and Linux.
     - Develop an application that hosts native web browser controls used to develop launchers, installers, and downloaders.
