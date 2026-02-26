@@ -1,17 +1,18 @@
 👋 I am a software developer with experience in cross-platform desktop, web, and front-end application development.
 
 🔭 I’m currently working on ...
-  - 📌 Software delivery and deployment platform for [Solsta](https://www.solsta.io/). It provides a fully integrated download manager, patcher, repair tools, and self-updating launcher that is used by game studios.
+  - 📌 Software delivery and deployment platform for [Solsta](https://www.solsta.io/).
+    - Fully integrated download manager, patcher, repair tools, and self-updating launcher that is used by game studios.
   
-    - Develop code-signing, executable branding, and dmg creation tools for macOS, Windows, and Linux.
-    - Develop an application that hosts native web browser controls used to develop launchers, installers, and downloaders.
+      - Cross-platform code-signing, executable branding, and dmg creation tools.
+      - CEF and native web browser SDK used to develop launchers, installers, and downloaders.
     
+  - 💉 [zlib-ng](https://github.com/zlib-ng/zlib-ng), a zlib data compression library replacement for next-generation systems.
+  
   - 🥨 [proxyres](https://github.com/nmoinvaz/proxyres), a cross-platform proxy resolution library.
     
   - ✂️ [minizip-ng](https://github.com/zlib-ng/minizip-ng), a cross-platform zip manipulation library based on the old minizip contribution found in zlib.
 
-  - 💉 [zlib-ng](https://github.com/zlib-ng/zlib-ng), a zlib data compression library replacement for next-generation systems.
-  
 A long time ago I developed two popular freeware applications...
 - 🔌 [ExtractNow](https://www.extractnow.com/), a utility that allowed you to extract multiple archives quickly and easily. When it was first developed there were few if any software applications available that were designed to handle batch archive operations.
 
