@@ -1,7 +1,7 @@
 👋 I am a software developer with experience in cross-platform desktop, web, and front-end application development.
 
 🔭 I’m currently working on ...
-  - 📌 Software delivery and deployment platform for [Solsta](https://www.solsta.io/).
+  - 📌 [solsta](https://www.solsta.io/), a software delivery and deployment platform.
     - Fully integrated download manager, patcher, repair tools, and self-updating launcher that is used by game studios.
   
       - Cross-platform code-signing, executable branding, and dmg creation tools.
