@@ -6,11 +6,11 @@
   
       - Cross-platform code-signing, executable branding, and dmg creation tools.
       - CEF and native web browser SDK used to develop launchers, installers, and downloaders.
-     
-  - 🏔️ [gzip-ng](https://github.com/zlib-ng/gzip-ng) / [gzip-ng-rs](https://github.com/zlib-ng/gzip-ng-rs), a BSD compatible replacement for gzip with support for parallel compression and decompression.
-    
+
   - 💉 [zlib-ng](https://github.com/zlib-ng/zlib-ng), a zlib data compression library replacement for next-generation systems.
-  
+ 
+  - 🏔️ [gzip-ng](https://github.com/zlib-ng/gzip-ng) / [gzip-ng-rs](https://github.com/zlib-ng/gzip-ng-rs), a BSD compatible replacement for gzip with support for parallel compression and decompression.
+
   - 🥨 [proxyres](https://github.com/proxyres/proxyres) / [proxyres-rs](https://github.com/proxyres/proxyres-rs), a cross-platform proxy resolution library.
     
   - ✂️ [minizip-ng](https://github.com/zlib-ng/minizip-ng), a cross-platform zip manipulation library based on the old minizip contribution found in zlib.
