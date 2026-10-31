@@ -9,7 +9,7 @@
     
   - 💉 [zlib-ng](https://github.com/zlib-ng/zlib-ng), a zlib data compression library replacement for next-generation systems.
   
-  - 🥨 [proxyres](https://github.com/nmoinvaz/proxyres), a cross-platform proxy resolution library.
+  - 🥨 [proxyres](https://github.com/proxyres/proxyres), a cross-platform proxy resolution library.
     
   - ✂️ [minizip-ng](https://github.com/zlib-ng/minizip-ng), a cross-platform zip manipulation library based on the old minizip contribution found in zlib.
 
