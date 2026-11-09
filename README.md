@@ -17,6 +17,8 @@
 
 AI games I made for fun..
 
+- 🗺️ [mapmakers-war](https://mapmakerswar.com/), a real-time strategy game in pen and ink style.
+
 - 💎 [wow-jewels](https://wow-jewels.com/), jewel-board game in the style of Gustav Klimt.
 
 - 🚀 [last-rocket](https://last-rocket.solsta.io/), a pixel-art scroller game used to test Electron self-updating.
