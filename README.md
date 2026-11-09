@@ -15,6 +15,10 @@
     
   - ✂️ [minizip-ng](https://github.com/zlib-ng/minizip-ng), a cross-platform zip manipulation library based on the old minizip contribution found in zlib.
 
+AI games I made for fun..
+
+- [wow-jewels](https://wow-jewels.com/) - Jewel based game
+
 A long time ago I developed two popular freeware applications...
 - 🔌 [ExtractNow](https://www.extractnow.com/), a utility that allowed you to extract multiple archives quickly and easily. When it was first developed there were few if any software applications available that were designed to handle batch archive operations.
 
