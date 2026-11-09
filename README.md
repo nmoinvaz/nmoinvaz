@@ -17,7 +17,7 @@
 
 AI games I made for fun..
 
-- 💎 [wow-jewels](https://wow-jewels.com/), jewel-board based game in the style of Gustav Klimt.
+- 💎 [wow-jewels](https://wow-jewels.com/), jewel-board game in the style of Gustav Klimt.
 
 A long time ago I developed two popular freeware applications...
 - 🔌 [ExtractNow](https://www.extractnow.com/), a utility that allowed you to extract multiple archives quickly and easily. When it was first developed there were few if any software applications available that were designed to handle batch archive operations.
